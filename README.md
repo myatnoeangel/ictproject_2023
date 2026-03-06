@@ -88,6 +88,6 @@ If revisiting this project, possible improvements could include:
 
 ## Author
 
-Angel  
+Myat Noe Angel  
 BSc Computer Science student at Newcastle University
 6th March 2026
